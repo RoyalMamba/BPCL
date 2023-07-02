@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+env/
+.venv/
+myenv/
+*.idea
+__pycache__
+__test
+.ipynb_checkpoints
+*.bak
