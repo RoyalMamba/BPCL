@@ -8,3 +8,6 @@ __pycache__
 __test
 .ipynb_checkpoints
 *.bak
+config.py
+config.py.bak
+bpcl_stock/
